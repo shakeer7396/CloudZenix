@@ -1,26 +1,26 @@
 const navBar =()=>{
     return`<div>
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark sticky-top">
-    <a class="navbar-brand" href="#"><img src="zenic.png" alt="Logo" width="200"></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar navbar-expand-md navbar-dark bg-success sticky-top" margin-bottom="100">
+    <a class="navbar-brand" href="#"><img src="logo.jpeg" alt="Logo" width="150" height="100"></a>
+    <button class="navbar-toggler" type="button" text-warning data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mx-auto  justify-content-center">
                
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="CloudSolutions/CloudSolutions.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Cloud Solutions
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" text-warning data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            GramTejus
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="CloudSolutions/Products/cloudAssetManagement.html">CloudZenix Nimbus</a>
-            <a class="dropdown-item" href="CloudSolutions/Products/cloudMigration.html">Cloud Migration</a>
-            <a class="dropdown-item" href="CloudSolutions/Products/hybridCloud.html">Hybrid Cloud Management</a>
-            <a class="dropdown-item" href="CloudSolutions/Products/cloudInfra.html">Cloud Infra Management</a>
-            <a class="dropdown-item" href="CloudSolutions/Products/Iaac.html">IaaC</a>
-            <a class="dropdown-item" href="CloudSolutions/Products/Serveless.html">Serverless App Development</a>
-            <a class="dropdown-item" href="CloudSolutions/Products/Paas.html">PaaS</a>
-            <a class="dropdown-item" href="CloudSolutions/Products/DevSec.html">DevSecOps</a>
+            <a class="dropdown-item" href="Pages/Fp.html">GT-Technologies</a>
+            <a class="dropdown-item" href="#">GT-Technologies</a>
+            <a class="dropdown-item" href="#">GT-Technologies</a>
+            <a class="dropdown-item" href="#">GT-Technologies</a>
+            <a class="dropdown-item" href="#">GT-Technologies</a>
+            <a class="dropdown-item" href="#">GT-Technologies</a>
+            <a class="dropdown-item" href="#">GT-Technologies</a>
+            <a class="dropdown-item" href="#">GT-Technologies</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -28,14 +28,14 @@ const navBar =()=>{
             Devops
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">CloudZenix Probe 360</a>
-          <a class="dropdown-item" href="#">DevOps Consulting</a>
-          <a class="dropdown-item" href="#">CI/CD Toolchain</a>
-          <a class="dropdown-item" href="#">Config Management</a>
-          <a class="dropdown-item" href="#">Real Time Analytics</a>
-          <a class="dropdown-item" href="#">Containerization-Docker & Kubernetes</a>
-          <a class="dropdown-item" href="#">AI-ML Ops</a>
-          <a class="dropdown-item" href="#">SRE</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">GT-Technologies</a>
 
           </div>
         </li>
