@@ -80,6 +80,12 @@ const navBar =()=>{
             </a>
             
           </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link" href="Pages/Blog.html" id="navbarDropdown" role="button" >
+              Blog
+            </a>
+            
+          </li>
           
       </ul>
     </div>
