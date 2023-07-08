@@ -10,17 +10,14 @@ const navBar =()=>{
                
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" text-warning data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            GramTejus
+            GramTejus Services
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="Pages/Fp.html">GT-Technologies</a>
-            <a class="dropdown-item" href="#">GT-Technologies</a>
-            <a class="dropdown-item" href="#">GT-Technologies</a>
-            <a class="dropdown-item" href="#">GT-Technologies</a>
-            <a class="dropdown-item" href="#">GT-Technologies</a>
-            <a class="dropdown-item" href="#">GT-Technologies</a>
-            <a class="dropdown-item" href="#">GT-Technologies</a>
-            <a class="dropdown-item" href="#">GT-Technologies</a>
+            <a class="dropdown-item" href="#">PROJECT DESIGN</a>
+            <a class="dropdown-item" href="#">WORKFORCE CONSULTANCY</a>
+            <a class="dropdown-item" href="#">RECRUITMENT SERVICES</a>
+           
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -28,14 +25,10 @@ const navBar =()=>{
             Devops
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">GT-Technologies</a>
-          <a class="dropdown-item" href="#">GT-Technologies</a>
-          <a class="dropdown-item" href="#">GT-Technologies</a>
-          <a class="dropdown-item" href="#">GT-Technologies</a>
-          <a class="dropdown-item" href="#">GT-Technologies</a>
-          <a class="dropdown-item" href="#">GT-Technologies</a>
-          <a class="dropdown-item" href="#">GT-Technologies</a>
-          <a class="dropdown-item" href="#">GT-Technologies</a>
+          <a class="dropdown-item" href="#">DEVOPS CONSULTING</a>
+          <a class="dropdown-item" href="#">CONFIG MANAGEMENT</a>
+          <a class="dropdown-item" href="#">REALTIME ANALYTICS</a>
+          <a class="dropdown-item" href="#">SRE</a>
 
           </div>
         </li>
@@ -44,9 +37,9 @@ const navBar =()=>{
               Staffing Solutions
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Staff Augmentation</a>
-              <a class="dropdown-item" href="#">US IT Recruitment</a>
-              <a class="dropdown-item" href="#">India IT Recruitment</a>
+              <a class="dropdown-item" href="#">STAFF AUGMENTATION</a>
+              <a class="dropdown-item" href="#">US IT RECRUITMENT</a>
+              <a class="dropdown-item" href="#">INDIA IT RECRUITMENT</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -54,11 +47,11 @@ const navBar =()=>{
               Company
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">About Us</a>
-              <a class="dropdown-item" href="#">Careers</a>
-              <a class="dropdown-item" href="#">Banking & Finance</a>
-              <a class="dropdown-item" href="#">Insurance</a>
-              <a class="dropdown-item" href="#">Healthcare</a>
+              <a class="dropdown-item" href="#">ABOUT US</a>
+              <a class="dropdown-item" href="#">CAREERS</a>
+              <a class="dropdown-item" href="#">BANKING & FINANCE</a>
+              <a class="dropdown-item" href="#">INSURANCE</a>
+              <a class="dropdown-item" href="#">HEALTHCARE</a>
             
             </div>
           </li>
@@ -67,11 +60,10 @@ const navBar =()=>{
               Contact Us
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <a class="dropdown-item" href="#">Something else here</a>
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
+              <a class="dropdown-item" href="#">ACTION</a>
+              <a class="dropdown-item" href="#">ANOTHER ACTION</a>
+              <a class="dropdown-item" href="#"> SOMETHING ELSE HERE</a>
+              <a class="dropdown-item" href="#">ACTION PROCESS</a>
             </div>
           </li>
           <li class="nav-item dropdown">
