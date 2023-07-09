@@ -10,10 +10,10 @@ const navBar =()=>{
                
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" text-warning data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            GramTejus Services
+            GramThejus Services
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="Pages/Fp.html">GT-Technologies</a>
+            <a class="dropdown-item" href="Pages/Fp.html">GT-TECHNOLOGIES</a>
             <a class="dropdown-item" href="#">PROJECT DESIGN</a>
             <a class="dropdown-item" href="#">WORKFORCE CONSULTANCY</a>
             <a class="dropdown-item" href="#">RECRUITMENT SERVICES</a>
@@ -26,7 +26,6 @@ const navBar =()=>{
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="#">DEVOPS CONSULTING</a>
-          <a class="dropdown-item" href="#">CONFIG MANAGEMENT</a>
           <a class="dropdown-item" href="#">REALTIME ANALYTICS</a>
           <a class="dropdown-item" href="#">SRE</a>
 
@@ -39,7 +38,6 @@ const navBar =()=>{
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="#">STAFF AUGMENTATION</a>
               <a class="dropdown-item" href="#">US IT RECRUITMENT</a>
-              <a class="dropdown-item" href="#">INDIA IT RECRUITMENT</a>
             </div>
           </li>
           <li class="nav-item dropdown">
@@ -61,9 +59,7 @@ const navBar =()=>{
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
               <a class="dropdown-item" href="#">ACTION</a>
-              <a class="dropdown-item" href="#">ANOTHER ACTION</a>
-              <a class="dropdown-item" href="#"> SOMETHING ELSE HERE</a>
-              <a class="dropdown-item" href="#">ACTION PROCESS</a>
+              <a class="dropdown-item" href="#">PROCESS</a>
             </div>
           </li>
           <li class="nav-item dropdown">
